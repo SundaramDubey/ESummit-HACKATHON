@@ -2,7 +2,7 @@
 waste management app:
 
 The basic idea with this app to post the wastes as food wastes , organic and other wastes to the correct place . 
-Often we think by waste management that we are going to deal with waste but no all we have to do is take initiative,
+Often we think by waste management that we are going to deal with waste by selves but no all we have to do is take initiative,
 if there is lack of dustbins in your locality then you can put your complain on this app's complain section.
 If municipality's employee are not coming after a regular interval you can put you complain here .
 But we have also some responsibilities always making a grievance is not a solution . So every one have to take initiatives.
