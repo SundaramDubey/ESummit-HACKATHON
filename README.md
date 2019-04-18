@@ -1,5 +1,6 @@
 # ESummit
-waste management app
+waste management app:
+
 The basic idea with this app to post the wastes as food wastes , organic and other wastes to the correct place . 
 Often we think by waste management that we are going to deal with waste but no all we have to do is take initiative,
 if there is lack of dustbins in your locality then you can put your complain on this app's complain section.
