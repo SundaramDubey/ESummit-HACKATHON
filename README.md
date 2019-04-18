@@ -9,3 +9,4 @@ But we have also some responsibilities always making a grievance is not a soluti
 If you any where in public place see garbage / waste is collected in healthy quantity you can click an image and upload on app .
 Also the articles are related to waste management are added to the front page of app which will be very helpful for everyone's perspective.
 
+We(maze runner) named our app swarat on the basis of "swacch bharat mission".
