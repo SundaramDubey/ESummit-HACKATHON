@@ -1,4 +1,4 @@
-# ESummit/waste management app
+# Team- Maze Runner(Sundaram, Nikita, Saurabh)/ESummit/waste management app
 waste management app:
 
 The basic idea with this app to post the wastes as food wastes , organic and other wastes to the correct place . 
