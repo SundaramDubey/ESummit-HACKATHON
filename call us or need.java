@@ -30,12 +30,12 @@ public class CallUs extends AppCompatActivity {
 
         // Create and populate a List of planet names.
         String[] planets = new String[] {
-                new String("Ravi    :  +919561720764"),
-                new String("Aniket  :  +919561720764"),
-                new String("Shri    :  +919561720764"),
-                new String("Siddhant:  +919561720764"),
-                new String("Vishal  :  +919561720764"),
-                new String("Tanmay  :  +919561720764"),};
+                new String("Sundaram    :  +919561720764"),
+                new String("Nikita  :  +919561720764"),
+                new String("Saurabh    :  +919561720764"),
+                new String("Sarthak:  +919561720764"),
+                new String("Varun  :  +919561720764"),
+                new String("raj  :  +919561720764"),};
 
         // Create ArrayAdapter using the planet list.
         // Set the ArrayAdapter as the ListView's adapter.
