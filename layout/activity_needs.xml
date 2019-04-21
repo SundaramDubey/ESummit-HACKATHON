@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/mainimage"
+    android:backgroundTint="#46fafafa"
+    android:backgroundTintMode="src_over"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:alpha="0.8"
+        android:text="NEEDS"
+        android:textColor="#000000"
+        android:textSize="75dp" />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="175dp"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textSize="25dp"
+        android:textColor="#ffFFFF"
+        android:backgroundTint="#fb0000"
+        android:textColorHint="#000000"
+        android:id="@+id/name"
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:hint="Email Id"
+        android:inputType="textEmailAddress"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:backgroundTint="#ff0000"
+        android:textColorHint="#000000"
+        android:id="@+id/email"
+        />
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="119dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="68dp"
+        android:backgroundTint="#ff0000"
+        android:hint="Needs - eg. increase in the number of dustbins, more municipal workers to be assigned, etc."
+        android:inputType="textMultiLine"
+        android:lines="5"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textColorHint="#000000"
+        android:id="@+id/needs"
+        />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="110dp"
+        android:background="@drawable/roundbutton"
+        android:text="Submit"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        />
+</RelativeLayout>
